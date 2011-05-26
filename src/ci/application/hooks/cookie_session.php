@@ -28,7 +28,8 @@ class CookieSessionHook
 	function __construct()
 	{
 		$this->ci = & get_instance();
-		$this->ci->load->helper('cookie');
+		//autoload now
+		//$this->ci->load->helper('cookie');
 	}
 	
 	public function post_controller_constructor()

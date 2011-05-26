@@ -10,10 +10,10 @@
 <ul>
 <li><?php 
 $atts = array(
-              'width'      => '640',
-              'height'     => '480',
-              'scrollbars' => 'no',
-              'status'     => 'no',
+              'width'      => '600',
+              'height'     => '400',
+              'scrollbars' => 'yes',
+              'status'     => 'yes',
               'resizable'  => 'yes',
               'screenx'    => '100',
               'screeny'    => '100'

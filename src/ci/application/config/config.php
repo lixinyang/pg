@@ -364,6 +364,8 @@ date_default_timezone_set("Asia/Shanghai");
 
 define( "WB_AKEY" , '3340614448' );
 define( "WB_SKEY" , '4a9e022e77cf7f40ed253b076854fbf0' );
+define( "TBL_USER" , 'users' );
+define( "TBL_SNS_BINDING" , 'sns_bindings' );
 
 
 /* End of file config.php */

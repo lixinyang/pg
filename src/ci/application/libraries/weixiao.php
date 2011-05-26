@@ -32,6 +32,12 @@ class Weixiao
 	public function set_user_token($user_token)
 	{
 		$this->user_token = $user_token;
+		//如果cookie没有设置则设置一下
+		if(!get_cookie(Weixiao::USER_TOKEN))
+		{
+			set_cookie(Weixiao::USER_TOKEN, $this->user_token, 3600*24*365*10);
+		}
+		
 	}
 	
 	/**
@@ -40,16 +46,25 @@ class Weixiao
 	 */
 	public function is_login()
 	{
+		$this->get_cur_user();
 		return !empty($this->user);
+	}
+	
+	public function logout()
+	{
+		$this->user = null;
+		$this->user_token = null;
+		delete_cookie(Weixiao::USER_TOKEN);
 	}
 	
 	/**
 	 * 
 	 * 取得当前的访问用户
+	 * 已登录返回登录用户，未登录返回null
 	 */
 	public function get_cur_user()
 	{
-		if(empty($this->user) || $this->user['user_token']!=$this->user_token)
+		if(empty($this->user) || $this->user->user_token!=$this->user_token)
 		{
 			if($this->user_token)
 			{

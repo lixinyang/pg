@@ -2,12 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml"> 
 <head> 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-	<title>欢迎加入</title>
+	<title>登录成功</title>
 </head>
 <body>
-<h1>hi <?php echo $user->display_name; ?>! 初次登录请完善下列信息：</h1>
-email: <br />
-
 <script language="JavaScript" type="text/javascript">
 function close_myself()
 {
@@ -18,6 +15,9 @@ function close_myself()
     }
 	window.close();
 }
+window.setTimeout(close_myself, 3000);
 </script>
-<a href="javascript:void(0)" onclick="close_myself()">完成</a>
+<h1>hi <?php echo $user->display_name; ?>, 欢迎回来！</h1>
+<p>3秒钟后自动关闭。。。</p>
+<p><a href="javascript:void(0)" onclick="close_myself()">立即关闭</a></p>
 </body>

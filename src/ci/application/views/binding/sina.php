@@ -7,5 +7,17 @@
 </head>
 <body>
 <h1>绑定微新浪博帐号有10大好处</h1>
-<a href="<?php echo $auth_url;?>">现在绑定</a>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<a href="<?php echo $auth_url;?>">马上绑定</a>
 </body>
