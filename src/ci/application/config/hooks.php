@@ -10,6 +10,12 @@
 |
 */
 
+$hook['post_controller_constructor'] = array(
+                                'class'    => 'CookieSessionHook',
+                                'function' => 'post_controller_constructor',
+                                'filename' => 'cookie_session.php',
+                                'filepath' => 'hooks'
+                                );
 
 
 /* End of file hooks.php */
