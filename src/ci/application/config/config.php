@@ -357,7 +357,14 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 
+/**
+ * 下面是自定义的配置
+ */
 date_default_timezone_set("Asia/Shanghai");
+
+define( "WB_AKEY" , '3340614448' );
+define( "WB_SKEY" , '4a9e022e77cf7f40ed253b076854fbf0' );
+
 
 /* End of file config.php */
 /* Location: ./application/config/config.php */
