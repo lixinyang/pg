@@ -9,10 +9,6 @@
 function close_myself()
 {
 	window.opener.location.href = window.opener.location.href;
-    if (window.opener.progressWindow)
-    {
-        window.opener.progressWindow.close();
-    }
 	window.close();
 }
 window.setTimeout(close_myself, 3000);
