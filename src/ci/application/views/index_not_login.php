@@ -18,9 +18,36 @@ $atts = array(
               'screenx'    => '100',
               'screeny'    => '100'
             );
-echo anchor_popup('binding/sina/show', '<img src="images/weibo.png" alt="以新浪微博帐号登录" />', $atts);
+echo anchor_popup('binding/sina/show', '<img src="images/weibo.png" alt="用新浪微博帐号登录" />', $atts);
 ?></li>
-<li><a href="http://open.qq.com">以QQ帐号登录</a></li>
+<li><?php 
+$atts = array(
+              'width'      	=> '450',
+              'height'     	=> '320',
+              'menubar' 	=> 'no',
+              'scrollbars'  => 'yes',
+              'resizable'  	=> 'yes',
+              'status'    	=> 'yes',
+              'titlebar'    => 'no',
+              'toolbar'    	=> 'no',
+              'location'    => 'yes'
+);
+echo anchor_popup('binding/qq/show', '<img src="images/qq.png" alt="用QQ帐号登录" />', $atts);
+?></li>
+<li><?php 
+$atts = array(
+              'width'      	=> '450',
+              'height'     	=> '320',
+              'menubar' 	=> 'no',
+              'scrollbars'  => 'yes',
+              'resizable'  	=> 'yes',
+              'status'    	=> 'yes',
+              'titlebar'    => 'no',
+              'toolbar'    	=> 'no',
+              'location'    => 'yes'
+);
+echo anchor_popup('binding/renren/show', '<img src="images/renren.png" alt="用人人帐号登录" />', $atts);
+?></li>
 <li><a href="http://renren.com">以人人帐号登录</a></li>
 <li><a href="http://kaixin001.com">以开心网帐号登录</a></li>
 </ul>

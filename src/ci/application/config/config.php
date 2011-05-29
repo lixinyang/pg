@@ -364,6 +364,10 @@ date_default_timezone_set("Asia/Shanghai");
 
 define( "WB_AKEY" , '3340614448' );
 define( "WB_SKEY" , '4a9e022e77cf7f40ed253b076854fbf0' );
+define( "QQ_APPID" , '139749' );
+define( "QQ_APPKEY" , '86a8afbc6456390cc5a655acf81d9990' );
+define( "RENREN_APPKEY" , '60ca3fd7dfeb48ae9527cf9becc8f961' );
+define( "RENREN_APPSECRET" , '21d55ece68ec43599ed91aa844c3f51e' );
 define( "TBL_USER" , 'users' );
 define( "TBL_SNS_BINDING" , 'sns_bindings' );
 

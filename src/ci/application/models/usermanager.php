@@ -14,6 +14,8 @@ class UserManager extends CI_Model
 	 */
 	const sns_website_sina = 'sina';
 	const sns_website_qq = 'qq';
+	const sns_website_renren = 'renren';
+	const sns_website_kaixin = 'kaixin';
 	
 	/**
 	 * 
