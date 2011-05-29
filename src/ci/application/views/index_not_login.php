@@ -30,9 +30,27 @@ $atts = array(
               'status'    	=> 'yes',
               'titlebar'    => 'no',
               'toolbar'    	=> 'no',
-              'location'    => 'yes'
+              'screenx'    => '100',
+              'screeny'    => '100',
+			  'location'    => 'yes'
 );
-echo anchor_popup('binding/qq/show', '<img src="images/qq.png" alt="用QQ帐号登录" />', $atts);
+echo anchor_popup('binding/qq/show', '<img src="images/qq.png" alt="用QQ帐号登录" title="用QQ帐号登录"/>', $atts);
+?></li>
+<li><?php 
+$atts = array(
+              'width'      	=> '800',
+              'height'     	=> '600',
+              'menubar' 	=> 'no',
+              'scrollbars'  => 'yes',
+              'resizable'  	=> 'yes',
+              'status'    	=> 'yes',
+              'titlebar'    => 'no',
+              'toolbar'    	=> 'no',
+              'screenx'    => '100',
+              'screeny'    => '100',
+			  'location'    => 'yes'
+);
+echo anchor_popup('binding/tqq/show', '<img src="images/qq.png" alt="用腾讯微博帐号登录" title="用腾讯微博帐号登录"/>', $atts);
 ?></li>
 <li><?php 
 $atts = array(
@@ -48,7 +66,6 @@ $atts = array(
 );
 echo anchor_popup('binding/renren/show', '<img src="images/renren.png" alt="用人人帐号登录" />', $atts);
 ?></li>
-<li><a href="http://renren.com">以人人帐号登录</a></li>
 <li><a href="http://kaixin001.com">以开心网帐号登录</a></li>
 </ul>
 </p>

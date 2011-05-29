@@ -33,12 +33,12 @@ class Sina extends CI_Controller {
 		//$o = new WeiboOAuth( WB_AKEY , WB_SKEY , $_SESSION['oauth_keys']['oauth_token'] , $_SESSION['oauth_keys']['oauth_token_secret']  );
 		$o = new WeiboOAuth( WB_AKEY , WB_SKEY , $this->session->userdata('oauth_token') , $this->session->userdata('oauth_token_secret') );
 		//这个key就是这个用户的令牌，很NB，要好好保存
-		var_dump($_REQUEST);
+		//var_dump($_REQUEST);
 		$last_key = $o->getAccessToken(  $_REQUEST['oauth_verifier'] ) ;
 		$sns_oauth_token = $last_key['oauth_token'];
 		$sns_oauth_token_secret = $last_key['oauth_token_secret'];
 		$sns_uid = $last_key['user_id'];
-		var_dump($last_key);
+		//var_dump($last_key);
 		if(empty($sns_uid)) throw new Exception('oauth fail, havnt got getAccessToken()');
 		
 		//获取用户信息

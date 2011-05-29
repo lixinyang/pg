@@ -14,6 +14,7 @@ class UserManager extends CI_Model
 	 */
 	const sns_website_sina = 'sina';
 	const sns_website_qq = 'qq';
+	const sns_website_tqq = 'tqq';
 	const sns_website_renren = 'renren';
 	const sns_website_kaixin = 'kaixin';
 	
@@ -101,7 +102,7 @@ class UserManager extends CI_Model
 		}
 	}
 	
-	function create_user($sns_website, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $name='')
+	function create_user($sns_website, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $name='', $token_expire_in=null)
 	{
 		//已经绑定过了
 		$binding = $this->get_binding_by_sns_uid($sns_website, $sns_uid);
@@ -124,14 +125,14 @@ class UserManager extends CI_Model
 		$this->db->update(TBL_USER, array('user_token' => $user_token));
 		
 		//生成binding
-		$this->create_sns_binding($uid, $sns_website, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $name);
+		$this->create_sns_binding($uid, $sns_website, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $name, $token_expire_in);
 		
 		$this->db->trans_complete();
 		
 		return $this->get_by_token($user_token);
 	}
 	
-	function create_sns_binding($uid, $sns_website, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $name='') {
+	function create_sns_binding($uid, $sns_website, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $name='', $token_expire_in=null) {
 		//已经绑定过了
 		$binding = $this->get_binding_by_sns_uid($sns_website, $sns_uid);
 		if (!empty($binding)) {
@@ -143,9 +144,34 @@ class UserManager extends CI_Model
 			'sns_uid'=>$sns_uid,
 			'sns_oauth_token'=>$sns_oauth_token,
 			'sns_oauth_token_secret'=>$sns_oauth_token_secret,
-			'sns_display_name'=>$name
+			'sns_display_name'=>$name,
+			'token_expire_date'=>date("Y-m-d H:i:s", time()+$token_expire_in)
 		);
 		$this->db->insert(TBL_SNS_BINDING, $binding);
+		
+		return $this->get_binding_by_sns_uid($sns_website, $sns_uid);
+	}
+
+	/**
+	 * 
+	 * 根据sns_website+sns_uid找到binding，然后更新其他属性
+	 * @param unknown_type $uid
+	 * @param unknown_type $sns_website
+	 * @param unknown_type $sns_uid
+	 * @param unknown_type $sns_oauth_token
+	 * @param unknown_type $sns_oauth_token_secret
+	 * @param unknown_type $name
+	 * @param unknown_type $token_expire_in
+	 */
+	function update_sns_binding($uid, $sns_website, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $name='', $token_expire_in=null) {
+		$binding = array();
+		if(!empty($uid)) $binding['user_id'] = $uid;
+		if(!empty($sns_oauth_token)) $binding['sns_oauth_token'] = $sns_oauth_token;
+		if(!empty($sns_oauth_token_secret)) $binding['sns_oauth_token_secret'] = $sns_oauth_token_secret;
+		if(!empty($name)) $binding['sns_display_name'] = $name;
+		if(!empty($token_expire_in)) $binding['token_expire_date'] = date("Y-m-d H:i:s", time()+$token_expire_in);
+
+		$this->db->update(TBL_SNS_BINDING, $binding, array('sns_website'=>$sns_website,'sns_uid'=>$sns_uid));
 		
 		return $this->get_binding_by_sns_uid($sns_website, $sns_uid);
 	}

@@ -1,45 +1,50 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 //require_once '../librarys/weibooauth.php';
-class Qq extends CI_Controller {
+class Tqq extends CI_Controller {
 	
 	function __construct()
 	{
 		parent::__construct();
-		$this->load->helper(array('url', 'qq'));
-//		$this->load->library('qq');
+		$this->load->helper(array('url', 't_qq'));
 		$this->load->model('usermanager');
 	}
 	
 	function show() {
-		$qq = new QqConnect();
-		$callback = site_url().'/binding/qq/callback';
-		$result = $qq->get_authorize_url(QQ_APPID, QQ_APPKEY, $callback);
-		$this->session->set_userdata('oauth_request_token', $result['oauth_request_token']);
-		$this->session->set_userdata('oauth_request_token_secret', $result['oauth_request_token_secret']);
-		//echo $result['authorize_url'];
-		redirect($result['authorize_url']);
+		$callback = site_url().'/binding/tqq/callback';
+		$o = new MBOpenTOAuth( MB_AKEY , MB_SKEY  );
+		$keys = $o->getRequestToken($callback);
+		$this->session->set_userdata($keys);
+		
+		$aurl = $o->getAuthorizeURL( $keys['oauth_token'] ,false,'');
+	
+		redirect($aurl);
 	}
 	
 	function callback() {
 		//var_dump($_REQUEST);
-		$qq = new QqConnect();
 		//这个key就是这个用户的令牌，很NB，要好好保存
-		$result = $qq->get_access_token(QQ_APPID, QQ_APPKEY, $this->session->userdata('oauth_request_token') , $this->session->userdata('oauth_request_token_secret') , $_REQUEST['oauth_vericode']);
+		$callback = site_url().'/binding/tqq/callback';
+		//var_dump($this->session);
+		$o = new MBOpenTOAuth( MB_AKEY , MB_SKEY , $this->session->userdata('oauth_token') , $this->session->userdata('oauth_token_secret'));
+		$result = $o->getAccessToken(  $_REQUEST['oauth_verifier'] ) ;//获取ACCESSTOKEN
 		//var_dump($result);
-		$sns_oauth_token = $result['oauth_access_token'];
-		$sns_oauth_token_secret = $result['oauth_access_token_secret'];
-		$sns_uid = $result['openid'];
-		if(empty($sns_uid)) throw new Exception('oauth fail, havnt got get_access_token()');
+		$sns_oauth_token = $result['oauth_token'];
+		$sns_oauth_token_secret = $result['oauth_token_secret'];
+		$sns_uid = $result['name'];//让人吃金啊
+		if(empty($sns_uid)) throw new Exception('oauth fail, havnt got getAccessToken()');
 		
 		//获取用户信息
-		$me = $qq->get_user_info(QQ_APPID, QQ_APPKEY, $sns_oauth_token , $sns_oauth_token_secret , $sns_uid);
+		//$c = new WeiboClient( WB_AKEY , WB_SKEY , $sns_oauth_token , $sns_oauth_token_secret);
+		$c = new MBApiClient( MB_AKEY , MB_SKEY , $sns_oauth_token , $sns_oauth_token_secret);
+		$me = $c->getUserInfo();
+		$me = $me['data'];
 		
-		$binding = $this->usermanager->get_binding_by_sns_uid(UserManager::sns_website_qq, $sns_uid);
+		$binding = $this->usermanager->get_binding_by_sns_uid(UserManager::sns_website_tqq, $sns_uid);
 		if(empty($binding))
 		{
 			//初次登录用户
 			//创建用户（同时创建sns_binding）
-			$user = $this->usermanager->create_user(UserManager::sns_website_qq, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $me['nickname']);
+			$user = $this->usermanager->create_user(UserManager::sns_website_tqq, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $me['name']);
 			//把新创建的用户放到ci->weixiao里
 			$this->weixiao->set_user_token($user->user_token);
 			$cur_user = $this->weixiao->get_cur_user();
