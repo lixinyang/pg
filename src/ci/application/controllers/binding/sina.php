@@ -1,11 +1,10 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-//require_once '../librarys/weibooauth.php';
-class Sina extends CI_Controller {
+require_once( dirname(__FILE__).'/bindbase.php' );
+class Sina extends Bindbase {
 	
 	function __construct()
 	{
 		parent::__construct();
-		//$this->load->library('weibooauth','sina');
 		$this->load->helper(array('url','weibooauth'));
 		$this->load->model('usermanager');
 	}
@@ -13,7 +12,8 @@ class Sina extends CI_Controller {
 	function show() {
 		$data = array();
 		$data['auth_url'] = $this->get_auth_url();
-		$this->load->view('binding/sina', $data);
+		//$this->load->view('binding/sina', $data);
+		redirect($data['auth_url']);
 	}
 	
 	private function get_auth_url() {
@@ -45,6 +45,9 @@ class Sina extends CI_Controller {
 		$c = new WeiboClient( WB_AKEY , WB_SKEY , $sns_oauth_token , $sns_oauth_token_secret);
 		$me = $c->verify_credentials();
 		
+		//把资料准备好之后，剩下的就交给父类里的模版方法了！
+		parent::post_login(UserManager::sns_website_sina, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $me['name']);
+		/*
 		$binding = $this->usermanager->get_binding_by_sns_uid(UserManager::sns_website_sina, $sns_uid);
 		if(empty($binding))
 		{
@@ -69,6 +72,7 @@ class Sina extends CI_Controller {
 			$data = array('user'=>$cur_user);
 			$this->load->view('binding/not_first_binding', $data);
 		}
+		*/
 	}
 }
 ?>

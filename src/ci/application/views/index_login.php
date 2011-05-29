@@ -2,19 +2,85 @@
 <html xmlns="http://www.w3.org/1999/xhtml"> 
 <head> 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-	<title>首页 - 登陆前</title>
+	<title>首页 - 登录后</title>
 </head>
 <body>
-<h1>hi dear, <?php echo $user->display_name; ?>!</h1>
+<?php 
+function print_list($list) {
+	$str = '';
+	foreach ($list as $key=>$val){
+		$str .= $key.':'.$val.'<br/>';
+	}
+	return  $str;
+}
+?>
+<h1>Hi Dear, <?php echo $user->display_name; ?>!</h1>
 <p>
-<?php echo anchor('index/logout', '退出登录'); ?>
+<?php 
+if (empty($user->email)) {
+	$atts = array(
+	              'width'      => '600',
+	              'height'     => '400',
+	              'scrollbars' => 'yes',
+	              'status'     => 'yes',
+	              'resizable'  => 'yes',
+				  'title'	   => '绑定Email，多一种登录方式',
+	              'screenx'    => '100',
+	              'screeny'    => '100'
+	            );
+	echo anchor_popup('binding/email/bind', '绑定Email', $atts);
+}
+else {
+	echo '绑定的Email：'.$user->email;
+}
+echo nbs(2);
+echo anchor('index/logout', '退出登录'); ?>
 </p>
-<p>
-<h2>您在新浪微博上的个人信息</h2>
-<ul>
-<?php foreach ($sina as $key => $value):?>
-<li><?php echo $key.': '.$value?></li>
-<?php endforeach;?>
-</ul>
-</p>
+<table border='1'>
+<tr>
+<th>项目</th><th>新浪微博</th><th>QQ连接</th><th>腾讯微博</th><th>人人网</th><th>开心网</th>
+</tr>
+<tr>
+<td>是否绑定</td><?php 
+$atts = array(
+              'width'      => '600',
+              'height'     => '400',
+              'scrollbars' => 'yes',
+              'status'     => 'yes',
+              'resizable'  => 'yes',
+              'screenx'    => '100',
+              'screeny'    => '100'
+            );
+?>
+<td><?php echo empty($binding_sina)?anchor_popup('binding/sina/show','现在绑定',$atts):'已绑定'; ?></td>
+<td><?php echo empty($binding_qq)?anchor_popup('binding/qq/show','现在绑定',$atts):'已绑定'; ?></td>
+<td><?php echo empty($binding_tqq)?anchor_popup('binding/tqq/show','现在绑定',$atts):'已绑定'; ?></td>
+<td><?php echo empty($binding_renren)?anchor_popup('binding/renren/show','现在绑定',$atts):'已绑定'; ?></td>
+<td>建设中。。</td>
+</tr>
+<tr>
+<td>Data in Binding Table</td>
+<td><?php echo empty($binding_sina)?'无数据':print_list($binding_sina); ?></td>
+<td><?php echo empty($binding_qq)?'无数据':print_list($binding_qq); ?></td>
+<td>建设中。。</td>
+<td><?php echo empty($binding_renren)?'无数据':print_list($binding_renren); ?></td>
+<td>建设中。。</td>
+</tr>
+<tr>
+<td>Data on sns site</td>
+<td><?php echo empty($sina)?'无数据':print_list($sina); ?></td>
+<td><?php echo empty($qq)?'无数据':print_list($qq); ?></td>
+<td>建设中。。</td>
+<td><?php echo empty($renren)?'无数据':print_list($renren); ?></td>
+<td>建设中。。</td>
+</tr>
+<tr>
+<td>好友数据</td>
+<td><?php echo empty($friends_sina)?'无数据':print_list($sina); ?></td>
+<td><?php echo empty($friends_qq)?'无数据':print_list($qq); ?></td>
+<td>建设中。。</td>
+<td><?php echo empty($friends_renren)?'无数据':print_list($renren); ?></td>
+<td>建设中。。</td>
+</tr>
+</table>
 </body>

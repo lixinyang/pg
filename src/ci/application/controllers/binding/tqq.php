@@ -1,6 +1,6 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-//require_once '../librarys/weibooauth.php';
-class Tqq extends CI_Controller {
+require_once( dirname(__FILE__).'/bindbase.php' );
+class Tqq extends Bindbase {
 	
 	function __construct()
 	{
@@ -39,6 +39,9 @@ class Tqq extends CI_Controller {
 		$me = $c->getUserInfo();
 		$me = $me['data'];
 		
+		//把资料准备好之后，剩下的就交给父类里的模版方法了！
+		parent::post_login(UserManager::sns_website_tqq, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $me['name']);
+		/*
 		$binding = $this->usermanager->get_binding_by_sns_uid(UserManager::sns_website_tqq, $sns_uid);
 		if(empty($binding))
 		{
@@ -63,6 +66,7 @@ class Tqq extends CI_Controller {
 			$data = array('user'=>$cur_user);
 			$this->load->view('binding/not_first_binding', $data);
 		}
+		*/
 	}
 }
 ?>

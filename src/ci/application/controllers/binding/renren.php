@@ -1,12 +1,11 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-//require_once '../librarys/weibooauth.php';
-class Renren extends CI_Controller {
+require_once( dirname(__FILE__).'/bindbase.php' );
+class Renren extends Bindbase {
 	
 	function __construct()
 	{
 		parent::__construct();
 		$this->load->helper(array('url', 'renren'));
-//		$this->load->library('qq');
 		$this->load->model('usermanager');
 	}
 	
@@ -34,8 +33,11 @@ class Renren extends CI_Controller {
 		
 		//获取用户信息
 		$me = $renren->get_user_info(RENREN_APPKEY, RENREN_APPSECRET, $reren_session_key , $sns_uid);
-		print_r($me);
+		//var_dump($me);
 		
+		//把资料准备好之后，剩下的就交给父类里的模版方法了！
+		parent::post_login(UserManager::sns_website_renren, $sns_uid, $reren_session_key, $reren_session_secret, $me[0]->name, $reren_token_expires_in);
+		/*
 		$binding = $this->usermanager->get_binding_by_sns_uid(UserManager::sns_website_renren, $sns_uid);
 		if(empty($binding))
 		{
@@ -63,6 +65,7 @@ class Renren extends CI_Controller {
 			$data = array('user'=>$cur_user);
 			$this->load->view('binding/not_first_binding', $data);
 		}
+		*/
 	}
 }
 ?>

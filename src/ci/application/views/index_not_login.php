@@ -6,8 +6,23 @@
 </head>
 <body>
 <h1>hi guest!</h1>
+<script type="javascript">
+</script>
 <p>
 <ul>
+<li><?php 
+$atts = array(
+              'width'      => '600',
+              'height'     => '400',
+              'scrollbars' => 'yes',
+              'status'     => 'yes',
+              'resizable'  => 'yes',
+			  'title'	   => '以Email+密码登录',
+              'screenx'    => '100',
+              'screeny'    => '100'
+            );
+echo anchor_popup('binding/email/show', '以Email+密码登录', $atts);
+?></li>
 <li><?php 
 $atts = array(
               'width'      => '600',

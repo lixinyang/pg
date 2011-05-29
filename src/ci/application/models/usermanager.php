@@ -70,15 +70,27 @@ class UserManager extends CI_Model
 			return null;
 		}
 	}
+
+		/**
+	 * 
+	 * 根据email找用户
+	 * 找到了1个就返回，没找到或者找到多个就返回null
+	 * @param string $user_token
+	 */
+	function get_by_email($email)
+	{
+		return $this->get_uniq(TBL_USER, array('email'=>$email));
+	}
 	
 	/**
 	 * 通过sns站点，用户在我们站点上的uid，查询sns_binding
-	 * 不存在会返回null，存在就返回binding的信息
+	 * 不存在会返回空数组，存在就返回binding的信息
 	 * @param string $sns_website, $uid
 	 */
-	function get_binding_by_uid($sns_website, $uid) 
+	function get_binding_by_uid($uid) 
 	{
-		return $this->get_uniq(TBL_SNS_BINDING, array('sns_website'=>$sns_website,'user_id'=>$uid));
+		$q = $this->db->get_where(TBL_SNS_BINDING, array('user_id'=>$uid));
+		return $q->result();
 	}
 	
 	/**
@@ -87,19 +99,7 @@ class UserManager extends CI_Model
 	 * @param string $sns_website, $sns_uid
 	 */
 	function get_binding_by_sns_uid($sns_website, $sns_uid) {
-		$q = $this->db->get_where(TBL_SNS_BINDING, array('sns_website'=>$sns_website,'sns_uid'=>$sns_uid));
-		if($q->num_rows()==0)
-		{
-			return null;
-		}
-		else if($q->num_rows()>1)
-		{
-			throw new Excpetion("damn! we got repeated sns_binding for accesskey:".$oauth_token);
-		}
-		else
-		{
-			return $q->row();
-		}
+		return $this->get_uniq(TBL_SNS_BINDING, array('sns_website'=>$sns_website,'sns_uid'=>$sns_uid));
 	}
 	
 	function create_user($sns_website, $sns_uid, $sns_oauth_token, $sns_oauth_token_secret, $name='', $token_expire_in=null)
@@ -176,5 +176,27 @@ class UserManager extends CI_Model
 		return $this->get_binding_by_sns_uid($sns_website, $sns_uid);
 	}
 	
+	/**
+	 * 
+	 * 根据uid找到用户然后更新其他属性
+	 * @param unknown_type $uid
+	 * @param unknown_type $display_name
+	 * @param unknown_type $email
+	 * @param unknown_type $passwd
+	 * @param unknown_type $last_login_time
+	 * @param unknown_type $last_login_ip
+	 */
+	function update_user($uid, $display_name=null, $email=null, $passwd=null, $last_login_time=null, $last_login_ip=null) {
+		$user = array();
+		if(!empty($display_name)) $user['display_name'] = $display_name;
+		if(!empty($email)) $user['email'] = $email;
+		if(!empty($passwd)) $user['passwd'] = $passwd;
+		if(!empty($last_login_time)) $user['last_login_time'] = $last_login_time;
+		if(!empty($last_login_ip)) $user['last_login_ip'] = $last_login_ip;
+
+		$this->db->update(TBL_USER, $user, array('id'=>$uid));
+		
+		return $this->get_by_id($uid);
+	}
 }
 ?>
