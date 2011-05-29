@@ -7,6 +7,7 @@ class Index extends CI_Controller
 		//$this->load->helper(array('url','weibooauth','qq','t_qq','renren','url'));
 		$this->load->helper(array('url','weibooauth','qq','renren','html'));
 		$this->load->model('usermanager');
+		$this->load->library('snsfactory');
 	}
 	
 	/**
@@ -32,6 +33,8 @@ class Index extends CI_Controller
 						$c = new WeiboClient( WB_AKEY , WB_SKEY , $binding->sns_oauth_token , $binding->sns_oauth_token_secret);
 						$me = $c->verify_credentials();
 						$data['sina'] = $me;
+						$friends = $c->friends_ids(null , 5000 , $binding->sns_uid);
+						$data['friends_sina'] = $friends['ids'];
 						break;
 					case UserManager::sns_website_qq:
 						$data['binding_qq'] = $binding;
@@ -43,10 +46,13 @@ class Index extends CI_Controller
 					case UserManager::sns_website_tqq:
 						$data['binding_tqq'] = $binding;
 						//读t.qq的数据
+						$c = $this->snsfactory->getMBApiClient( MB_AKEY , MB_SKEY , $binding->sns_oauth_token , $binding->sns_oauth_token_secret);
 //						$c = new MBApiClient( MB_AKEY , MB_SKEY , $binding->sns_oauth_token , $binding->sns_oauth_token_secret);
-//						$me = $c->getUserInfo();
-//						$me = $me['data'];
-//						$data['tqq'] = $me;
+						$me = $c->getUserInfo();
+						$me = $me['data'];
+						$data['tqq'] = $me;
+						$friends = $c->getMyfans(array('num'=>30,'start'=>0,'type'=>1,'n'=>''));
+						$data['friends_tqq'] = $friends['data']['info'];
 						break;
 					case UserManager::sns_website_renren:
 						$data['binding_renren'] = $binding;
@@ -54,6 +60,8 @@ class Index extends CI_Controller
 						$renren = new RenrenConnect();
 						$me = $renren->get_user_info(RENREN_APPKEY, RENREN_APPSECRET, $binding->sns_oauth_token , $binding->sns_uid);
 						$data['renren'] = $me[0];
+						$friends = $renren->get_friends(RENREN_APPKEY, RENREN_APPSECRET, $binding->sns_oauth_token);
+						$data['friends_renren'] = $friends;
 						break;
 				}
 			}

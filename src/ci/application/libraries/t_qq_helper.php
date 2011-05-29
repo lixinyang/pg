@@ -1,5 +1,5 @@
 <?php
-//namespace qq;
+namespace qq;
 /**
  * 
  * 使用者只需要MBApiClient（调用数据时）、MBOpenTOAuth（登录时）两个类，其他请无视。

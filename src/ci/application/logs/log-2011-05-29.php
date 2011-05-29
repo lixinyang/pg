@@ -13935,3 +13935,2038 @@ ERROR - 2011-05-29 19:41:08 --> Severity: Notice  --> Undefined index: port E:\w
 DEBUG - 2011-05-29 19:41:09 --> File loaded: application/views/index_login.php
 DEBUG - 2011-05-29 19:41:09 --> Final output sent to browser
 DEBUG - 2011-05-29 19:41:09 --> Total execution time: 0.3189
+DEBUG - 2011-05-29 19:53:02 --> Config Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:53:02 --> URI Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Router Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 19:53:02 --> Output Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Security Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Input Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 19:53:02 --> Language Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Loader Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 19:53:02 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Session Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 19:53:02 --> Session routines successfully run
+DEBUG - 2011-05-29 19:53:02 --> Model Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Model Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Controller Class Initialized
+DEBUG - 2011-05-29 19:53:02 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 19:53:02 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 19:53:02 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 19:53:02 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 19:53:02 --> Helper loaded: html_helper
+ERROR - 2011-05-29 19:53:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 19:53:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 19:53:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 19:53:02 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 19:53:02 --> Final output sent to browser
+DEBUG - 2011-05-29 19:53:02 --> Total execution time: 0.5955
+DEBUG - 2011-05-29 19:55:00 --> Config Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:55:00 --> URI Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Router Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Output Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Security Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Input Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 19:55:00 --> Language Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Loader Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 19:55:00 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Session Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 19:55:00 --> Session routines successfully run
+DEBUG - 2011-05-29 19:55:00 --> Model Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Model Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Controller Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 19:55:00 --> Config Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:55:00 --> URI Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Router Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 19:55:00 --> Output Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Security Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Input Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 19:55:00 --> Language Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Loader Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 19:55:00 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Session Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 19:55:00 --> Session routines successfully run
+DEBUG - 2011-05-29 19:55:00 --> Model Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Model Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Controller Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 19:55:00 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 19:55:00 --> File loaded: application/views/index_not_login.php
+DEBUG - 2011-05-29 19:55:00 --> Final output sent to browser
+DEBUG - 2011-05-29 19:55:00 --> Total execution time: 0.0403
+DEBUG - 2011-05-29 19:55:00 --> Config Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:55:00 --> URI Class Initialized
+DEBUG - 2011-05-29 19:55:00 --> Router Class Initialized
+ERROR - 2011-05-29 19:55:00 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 19:55:01 --> Config Class Initialized
+DEBUG - 2011-05-29 19:55:01 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:55:01 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:55:01 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:55:01 --> URI Class Initialized
+DEBUG - 2011-05-29 19:55:01 --> Router Class Initialized
+ERROR - 2011-05-29 19:55:01 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 19:55:01 --> Config Class Initialized
+DEBUG - 2011-05-29 19:55:01 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:55:01 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:55:01 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:55:01 --> URI Class Initialized
+DEBUG - 2011-05-29 19:55:01 --> Router Class Initialized
+ERROR - 2011-05-29 19:55:01 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 19:55:02 --> Config Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:55:02 --> URI Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Router Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Output Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Security Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Input Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 19:55:02 --> Language Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Loader Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 19:55:02 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Session Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 19:55:02 --> Session garbage collection performed.
+DEBUG - 2011-05-29 19:55:02 --> Session routines successfully run
+DEBUG - 2011-05-29 19:55:02 --> Model Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Model Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Controller Class Initialized
+DEBUG - 2011-05-29 19:55:02 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 19:55:02 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 19:55:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1553
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1553
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> array_combine() expects parameter 1 to be array, null given E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1719
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> uksort() expects parameter 1 to be array, null given E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1723
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> Invalid argument supplied for foreach() E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1726
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1553
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1202
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1553
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 948
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1553
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1553
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> array_combine() expects parameter 1 to be array, null given E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1719
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> uksort() expects parameter 1 to be array, null given E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1723
+ERROR - 2011-05-29 19:55:02 --> Severity: Warning  --> Invalid argument supplied for foreach() E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1726
+ERROR - 2011-05-29 19:55:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 19:55:02 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 19:55:02 --> Severity: Notice  --> Undefined index: oauth_token_secret E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 19:55:03 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at E:\workspaces\php\pg\src\ci\system\core\Exceptions.php:170) E:\workspaces\php\pg\src\ci\system\libraries\Session.php 671
+ERROR - 2011-05-29 19:55:03 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 18
+ERROR - 2011-05-29 19:55:03 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at E:\workspaces\php\pg\src\ci\system\core\Exceptions.php:170) E:\workspaces\php\pg\src\ci\system\helpers\url_helper.php 543
+DEBUG - 2011-05-29 19:57:43 --> Config Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:57:43 --> URI Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Router Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Output Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Security Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Input Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 19:57:43 --> Language Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Loader Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 19:57:43 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Session Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 19:57:43 --> Session routines successfully run
+DEBUG - 2011-05-29 19:57:43 --> Model Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Model Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Controller Class Initialized
+DEBUG - 2011-05-29 19:57:43 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 19:57:43 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 19:57:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 19:57:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+DEBUG - 2011-05-29 19:57:50 --> Config Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:57:50 --> URI Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Router Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Output Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Security Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Input Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 19:57:50 --> Language Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Loader Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 19:57:50 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Session Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 19:57:50 --> Session routines successfully run
+DEBUG - 2011-05-29 19:57:50 --> Model Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Model Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Controller Class Initialized
+DEBUG - 2011-05-29 19:57:50 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 19:57:50 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 19:57:50 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 19:57:50 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 19:57:50 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 19:57:50 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+DEBUG - 2011-05-29 19:57:50 --> File loaded: application/views/binding/splash.php
+DEBUG - 2011-05-29 19:57:50 --> Final output sent to browser
+DEBUG - 2011-05-29 19:57:50 --> Total execution time: 0.7208
+DEBUG - 2011-05-29 19:57:57 --> Config Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Hooks Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 19:57:57 --> URI Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Router Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 19:57:57 --> Output Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Security Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Input Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 19:57:57 --> Language Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Loader Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 19:57:57 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Session Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 19:57:57 --> Session garbage collection performed.
+DEBUG - 2011-05-29 19:57:57 --> Session routines successfully run
+DEBUG - 2011-05-29 19:57:57 --> Model Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Model Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Controller Class Initialized
+DEBUG - 2011-05-29 19:57:57 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 19:57:57 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 19:57:57 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 19:57:57 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 19:57:57 --> Helper loaded: html_helper
+ERROR - 2011-05-29 19:57:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 19:57:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 19:57:58 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 19:57:58 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 19:57:58 --> Final output sent to browser
+DEBUG - 2011-05-29 19:57:58 --> Total execution time: 1.3264
+DEBUG - 2011-05-29 20:12:13 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:13 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Router Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:12:13 --> Output Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Security Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Input Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:12:13 --> Language Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:12:13 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Session Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:12:13 --> Session routines successfully run
+DEBUG - 2011-05-29 20:12:13 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:12:13 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:12:13 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:12:13 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:12:13 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:12:13 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:12:13 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:12:13 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:12:13 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:12:13 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:12:13 --> Final output sent to browser
+DEBUG - 2011-05-29 20:12:13 --> Total execution time: 0.4129
+DEBUG - 2011-05-29 20:12:15 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:15 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Router Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Output Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Security Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Input Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:12:15 --> Language Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:12:15 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Session Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:12:15 --> Session garbage collection performed.
+DEBUG - 2011-05-29 20:12:15 --> Session routines successfully run
+DEBUG - 2011-05-29 20:12:15 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:12:15 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:15 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Router Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:12:15 --> Output Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Security Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Input Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:12:15 --> Language Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:12:15 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Session Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:12:15 --> Session garbage collection performed.
+DEBUG - 2011-05-29 20:12:15 --> Session routines successfully run
+DEBUG - 2011-05-29 20:12:15 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:12:15 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:12:15 --> File loaded: application/views/index_not_login.php
+DEBUG - 2011-05-29 20:12:15 --> Final output sent to browser
+DEBUG - 2011-05-29 20:12:15 --> Total execution time: 0.0414
+DEBUG - 2011-05-29 20:12:15 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:15 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:15 --> Router Class Initialized
+ERROR - 2011-05-29 20:12:15 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 20:12:16 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:16 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:16 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:16 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:16 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:16 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:16 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:16 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:16 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:16 --> Router Class Initialized
+DEBUG - 2011-05-29 20:12:16 --> URI Class Initialized
+ERROR - 2011-05-29 20:12:16 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 20:12:16 --> Router Class Initialized
+ERROR - 2011-05-29 20:12:16 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 20:12:17 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:17 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Router Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Output Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Security Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Input Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:12:17 --> Language Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:12:17 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Session Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:12:17 --> Session routines successfully run
+DEBUG - 2011-05-29 20:12:17 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:12:17 --> Helper loaded: form_helper
+DEBUG - 2011-05-29 20:12:17 --> Form Validation Class Initialized
+DEBUG - 2011-05-29 20:12:17 --> File loaded: application/views/binding/email.php
+DEBUG - 2011-05-29 20:12:17 --> Final output sent to browser
+DEBUG - 2011-05-29 20:12:17 --> Total execution time: 0.0374
+DEBUG - 2011-05-29 20:12:20 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:20 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Router Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Output Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Security Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Input Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:12:20 --> Language Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:12:20 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Session Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:12:20 --> Session routines successfully run
+DEBUG - 2011-05-29 20:12:20 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:12:20 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:12:20 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:12:20 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:12:20 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+DEBUG - 2011-05-29 20:12:22 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:22 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Router Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Output Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Security Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Input Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:12:22 --> Language Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:12:22 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Session Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:12:22 --> Session routines successfully run
+DEBUG - 2011-05-29 20:12:22 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:12:22 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:12:22 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:12:22 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:12:22 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:12:23 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:12:23 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+DEBUG - 2011-05-29 20:12:23 --> File loaded: application/views/binding/splash.php
+DEBUG - 2011-05-29 20:12:23 --> Final output sent to browser
+DEBUG - 2011-05-29 20:12:23 --> Total execution time: 0.6976
+DEBUG - 2011-05-29 20:12:29 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:29 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Router Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:12:29 --> Output Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Security Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Input Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:12:29 --> Language Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:12:29 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Session Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:12:29 --> Session routines successfully run
+DEBUG - 2011-05-29 20:12:29 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:12:29 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:12:29 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:12:29 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:12:29 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:12:29 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:12:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:12:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:12:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:12:29 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:12:29 --> Final output sent to browser
+DEBUG - 2011-05-29 20:12:29 --> Total execution time: 0.3089
+DEBUG - 2011-05-29 20:12:41 --> Config Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:12:41 --> URI Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Router Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:12:41 --> Output Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Security Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Input Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:12:41 --> Language Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:12:41 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Session Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:12:41 --> Session routines successfully run
+DEBUG - 2011-05-29 20:12:41 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Model Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:12:41 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:12:41 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:12:41 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:12:41 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:12:41 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:13:38 --> Config Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:13:38 --> URI Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Router Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:13:38 --> Output Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Security Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Input Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:13:38 --> Language Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:13:38 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Session Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:13:38 --> Session routines successfully run
+DEBUG - 2011-05-29 20:13:38 --> Model Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Model Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:13:38 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:13:38 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:13:38 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:13:38 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:13:38 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:14:27 --> Config Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:14:27 --> URI Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Router Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:14:27 --> Output Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Security Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Input Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:14:27 --> Language Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:14:27 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Session Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:14:27 --> A session cookie was not found.
+DEBUG - 2011-05-29 20:14:27 --> Session routines successfully run
+DEBUG - 2011-05-29 20:14:27 --> Model Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Model Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:14:27 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:14:27 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:14:27 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:14:27 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:14:27 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:14:53 --> Config Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:14:53 --> URI Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Router Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:14:53 --> Output Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Security Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Input Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:14:53 --> Language Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:14:53 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Session Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:14:53 --> Session routines successfully run
+DEBUG - 2011-05-29 20:14:53 --> Model Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Model Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:14:53 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:14:53 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:14:53 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:14:53 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:14:53 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:17:28 --> Config Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:17:28 --> URI Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Router Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:17:28 --> Output Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Security Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Input Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:17:28 --> Language Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:17:28 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Session Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:17:28 --> Session routines successfully run
+DEBUG - 2011-05-29 20:17:28 --> Model Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Model Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:17:28 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:17:28 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:17:28 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:17:28 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:17:28 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:17:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:17:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:17:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:17:28 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:17:28 --> Final output sent to browser
+DEBUG - 2011-05-29 20:17:28 --> Total execution time: 0.3464
+DEBUG - 2011-05-29 20:18:32 --> Config Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:18:32 --> URI Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Router Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:18:32 --> Output Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Security Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Input Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:18:32 --> Language Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:18:32 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Session Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:18:32 --> Session routines successfully run
+DEBUG - 2011-05-29 20:18:32 --> Model Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Model Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:18:32 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:18:32 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:18:32 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:18:32 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:18:32 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:18:32 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:18:32 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+DEBUG - 2011-05-29 20:19:01 --> Config Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:19:01 --> URI Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Router Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:19:01 --> Output Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Security Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Input Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:19:01 --> Language Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:19:01 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Session Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:19:01 --> Session routines successfully run
+DEBUG - 2011-05-29 20:19:01 --> Model Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Model Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:19:01 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:19:01 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:19:01 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:19:01 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:19:01 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:19:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:19:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:19:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:19:02 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:19:02 --> Final output sent to browser
+DEBUG - 2011-05-29 20:19:02 --> Total execution time: 0.4061
+DEBUG - 2011-05-29 20:23:25 --> Config Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:23:25 --> URI Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Router Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:23:25 --> Output Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Security Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Input Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:23:25 --> Language Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:23:25 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Session Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:23:25 --> Session routines successfully run
+DEBUG - 2011-05-29 20:23:25 --> Model Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Model Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:23:25 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:23:25 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:23:25 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:23:25 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:23:25 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:23:25 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:23:25 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:23:25 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:23:25 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:23:25 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:23:26 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:23:26 --> Final output sent to browser
+DEBUG - 2011-05-29 20:23:26 --> Total execution time: 0.7693
+DEBUG - 2011-05-29 20:26:02 --> Config Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:26:02 --> URI Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Router Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:26:02 --> Output Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Security Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Input Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:26:02 --> Language Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:26:02 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Session Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:26:02 --> Session routines successfully run
+DEBUG - 2011-05-29 20:26:02 --> Model Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Model Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:26:02 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:26:02 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:26:02 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:26:02 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:26:02 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:26:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:26:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:26:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:26:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:26:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:26:02 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:26:02 --> Final output sent to browser
+DEBUG - 2011-05-29 20:26:02 --> Total execution time: 0.5316
+DEBUG - 2011-05-29 20:28:57 --> Config Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:28:57 --> URI Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Router Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Output Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Security Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Input Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:28:57 --> Language Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:28:57 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Session Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:28:57 --> Session routines successfully run
+DEBUG - 2011-05-29 20:28:57 --> Model Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Model Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:28:57 --> Config Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:28:57 --> URI Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Router Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:28:57 --> Output Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Security Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Input Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:28:57 --> Language Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:28:57 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Session Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:28:57 --> Session routines successfully run
+DEBUG - 2011-05-29 20:28:57 --> Model Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Model Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:28:57 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:28:57 --> File loaded: application/views/index_not_login.php
+DEBUG - 2011-05-29 20:28:57 --> Final output sent to browser
+DEBUG - 2011-05-29 20:28:57 --> Total execution time: 0.0478
+DEBUG - 2011-05-29 20:28:57 --> Config Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:28:57 --> URI Class Initialized
+DEBUG - 2011-05-29 20:28:57 --> Router Class Initialized
+ERROR - 2011-05-29 20:28:57 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 20:28:58 --> Config Class Initialized
+DEBUG - 2011-05-29 20:28:58 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:28:58 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:28:58 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:28:58 --> URI Class Initialized
+DEBUG - 2011-05-29 20:28:58 --> Router Class Initialized
+ERROR - 2011-05-29 20:28:58 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 20:28:58 --> Config Class Initialized
+DEBUG - 2011-05-29 20:28:58 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:28:58 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:28:58 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:28:58 --> URI Class Initialized
+DEBUG - 2011-05-29 20:28:58 --> Router Class Initialized
+ERROR - 2011-05-29 20:28:58 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 20:29:01 --> Config Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:29:01 --> URI Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Router Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Output Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Security Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Input Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:29:01 --> Language Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:29:01 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Session Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:29:01 --> Session routines successfully run
+DEBUG - 2011-05-29 20:29:01 --> Model Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Model Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:29:01 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:29:01 --> Helper loaded: t_qq_helper
+DEBUG - 2011-05-29 20:29:19 --> Config Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:29:19 --> URI Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Router Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Output Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Security Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Input Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:29:19 --> Language Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:29:19 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Session Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:29:19 --> Session routines successfully run
+DEBUG - 2011-05-29 20:29:19 --> Model Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Model Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:29:19 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:29:19 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:29:19 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:29:19 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+DEBUG - 2011-05-29 20:29:27 --> Config Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:29:27 --> URI Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Router Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Output Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Security Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Input Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:29:27 --> Language Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:29:27 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Session Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:29:27 --> Session routines successfully run
+DEBUG - 2011-05-29 20:29:27 --> Model Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Model Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:29:27 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:29:27 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:29:27 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:29:27 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:29:27 --> Severity: Notice  --> Undefined variable: binding E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 41
+ERROR - 2011-05-29 20:29:27 --> Severity: Notice  --> Trying to get property of non-object E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 41
+ERROR - 2011-05-29 20:29:27 --> Severity: Notice  --> Undefined variable: binding E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 41
+ERROR - 2011-05-29 20:29:27 --> Severity: Notice  --> Trying to get property of non-object E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 41
+ERROR - 2011-05-29 20:29:27 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:29:27 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+DEBUG - 2011-05-29 20:32:27 --> Config Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:32:27 --> URI Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Router Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Output Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Security Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Input Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:32:27 --> Language Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:32:27 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Session Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:32:27 --> Session routines successfully run
+DEBUG - 2011-05-29 20:32:27 --> Model Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Model Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:32:27 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:32:27 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:32:27 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:32:27 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:32:27 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 654
+ERROR - 2011-05-29 20:32:27 --> Severity: Notice  --> Undefined index: oauth_token_secret E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 654
+ERROR - 2011-05-29 20:32:27 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 34
+ERROR - 2011-05-29 20:32:27 --> Severity: Notice  --> Undefined index: oauth_token_secret E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 35
+ERROR - 2011-05-29 20:32:27 --> Severity: Notice  --> Undefined index: name E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 36
+DEBUG - 2011-05-29 20:32:43 --> Config Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:32:43 --> URI Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Router Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Output Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Security Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Input Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:32:43 --> Language Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:32:43 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Session Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:32:43 --> Session routines successfully run
+DEBUG - 2011-05-29 20:32:43 --> Model Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Model Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:32:43 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:32:43 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:32:43 --> Severity: Notice  --> Use of undefined constant MB_SKE - assumed 'MB_SKE' E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 16
+ERROR - 2011-05-29 20:32:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:32:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:32:44 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 20:32:44 --> Severity: Notice  --> Undefined index: oauth_token_secret E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 20:32:44 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 20
+DEBUG - 2011-05-29 20:33:30 --> Config Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:33:30 --> URI Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Router Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Output Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Security Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Input Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:33:30 --> Language Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:33:30 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Session Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:33:30 --> Session routines successfully run
+DEBUG - 2011-05-29 20:33:30 --> Model Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Model Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:33:30 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:33:30 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:33:30 --> Severity: Notice  --> Use of undefined constant MB_SKE - assumed 'MB_SKE' E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 16
+ERROR - 2011-05-29 20:33:30 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:33:30 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:33:31 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 20:33:31 --> Severity: Notice  --> Undefined index: oauth_token_secret E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 20:33:31 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 20
+DEBUG - 2011-05-29 20:34:21 --> Config Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:34:21 --> URI Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> Router Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> Output Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> Security Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> Input Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:34:21 --> Language Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:34:21 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:34:22 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:34:22 --> Session Class Initialized
+DEBUG - 2011-05-29 20:34:22 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:34:22 --> Session routines successfully run
+DEBUG - 2011-05-29 20:34:22 --> Model Class Initialized
+DEBUG - 2011-05-29 20:34:22 --> Model Class Initialized
+DEBUG - 2011-05-29 20:34:22 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:34:22 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:34:22 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:34:22 --> Severity: Notice  --> Use of undefined constant MB_SKE - assumed 'MB_SKE' E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 16
+ERROR - 2011-05-29 20:34:22 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:34:22 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:34:22 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 20:34:22 --> Severity: Notice  --> Undefined index: oauth_token_secret E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 20:34:22 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 21
+DEBUG - 2011-05-29 20:34:56 --> Config Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:34:56 --> URI Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Router Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Output Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Security Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Input Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:34:56 --> Language Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:34:56 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Session Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:34:56 --> Session routines successfully run
+DEBUG - 2011-05-29 20:34:56 --> Model Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Model Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:34:56 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:34:56 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:34:56 --> Severity: Notice  --> Use of undefined constant MB_SKE - assumed 'MB_SKE' E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 16
+ERROR - 2011-05-29 20:34:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:34:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:34:56 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 20:34:56 --> Severity: Notice  --> Undefined index: oauth_token_secret E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 620
+ERROR - 2011-05-29 20:34:56 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 21
+DEBUG - 2011-05-29 20:34:56 --> Final output sent to browser
+DEBUG - 2011-05-29 20:34:56 --> Total execution time: 0.5337
+DEBUG - 2011-05-29 20:35:25 --> Config Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:35:25 --> URI Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Router Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Output Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Security Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Input Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:35:25 --> Language Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:35:25 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Session Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:35:25 --> Session routines successfully run
+DEBUG - 2011-05-29 20:35:25 --> Model Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Model Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:35:25 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:35:25 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:35:25 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:35:25 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+DEBUG - 2011-05-29 20:35:25 --> Final output sent to browser
+DEBUG - 2011-05-29 20:35:25 --> Total execution time: 0.5313
+DEBUG - 2011-05-29 20:35:42 --> Config Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:35:42 --> URI Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Router Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Output Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Security Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Input Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:35:42 --> Language Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:35:42 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Session Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:35:42 --> Session routines successfully run
+DEBUG - 2011-05-29 20:35:42 --> Model Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Model Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:35:42 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:35:42 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:35:42 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:35:42 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+DEBUG - 2011-05-29 20:35:51 --> Config Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:35:51 --> URI Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Router Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Output Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Security Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Input Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:35:51 --> Language Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:35:51 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Session Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:35:51 --> Session routines successfully run
+DEBUG - 2011-05-29 20:35:51 --> Model Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Model Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:35:51 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:35:51 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:35:51 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:35:51 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:35:51 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:35:51 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+DEBUG - 2011-05-29 20:35:51 --> File loaded: application/views/binding/splash.php
+DEBUG - 2011-05-29 20:35:51 --> Final output sent to browser
+DEBUG - 2011-05-29 20:35:51 --> Total execution time: 0.7082
+DEBUG - 2011-05-29 20:35:57 --> Config Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:35:57 --> URI Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Router Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:35:57 --> Output Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Security Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Input Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:35:57 --> Language Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:35:57 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Session Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:35:57 --> Session routines successfully run
+DEBUG - 2011-05-29 20:35:57 --> Model Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Model Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:35:57 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:35:57 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:35:57 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:35:57 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:35:57 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:35:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:35:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:36:00 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:36:00 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:36:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:36:01 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:36:01 --> Final output sent to browser
+DEBUG - 2011-05-29 20:36:01 --> Total execution time: 3.6068
+DEBUG - 2011-05-29 20:36:16 --> Config Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:36:16 --> URI Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Router Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Output Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Security Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Input Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:36:16 --> Language Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:36:16 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Session Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:36:16 --> Session routines successfully run
+DEBUG - 2011-05-29 20:36:16 --> Model Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Model Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:36:16 --> Config Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:36:16 --> URI Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Router Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:36:16 --> Output Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Security Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Input Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:36:16 --> Language Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:36:16 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Session Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:36:16 --> Session routines successfully run
+DEBUG - 2011-05-29 20:36:16 --> Model Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Model Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:36:16 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 20:36:16 --> File loaded: application/views/index_not_login.php
+DEBUG - 2011-05-29 20:36:16 --> Final output sent to browser
+DEBUG - 2011-05-29 20:36:16 --> Total execution time: 0.0435
+DEBUG - 2011-05-29 20:36:16 --> Config Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:36:16 --> URI Class Initialized
+DEBUG - 2011-05-29 20:36:16 --> Router Class Initialized
+ERROR - 2011-05-29 20:36:16 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 20:36:17 --> Config Class Initialized
+DEBUG - 2011-05-29 20:36:17 --> Config Class Initialized
+DEBUG - 2011-05-29 20:36:17 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:36:17 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:36:17 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:36:17 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:36:17 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:36:17 --> URI Class Initialized
+DEBUG - 2011-05-29 20:36:17 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:36:17 --> Router Class Initialized
+DEBUG - 2011-05-29 20:36:17 --> URI Class Initialized
+ERROR - 2011-05-29 20:36:17 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 20:36:17 --> Router Class Initialized
+ERROR - 2011-05-29 20:36:17 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 20:36:18 --> Config Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:36:18 --> URI Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Router Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Output Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Security Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Input Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:36:18 --> Language Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:36:18 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Session Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:36:18 --> Session routines successfully run
+DEBUG - 2011-05-29 20:36:18 --> Model Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Model Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:36:18 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:36:56 --> Config Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:36:56 --> URI Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Router Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Output Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Security Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Input Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:36:56 --> Language Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:36:56 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Session Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:36:56 --> Session routines successfully run
+DEBUG - 2011-05-29 20:36:56 --> Model Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Model Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:36:56 --> Helper loaded: url_helper
+ERROR - 2011-05-29 20:36:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1553
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1553
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> array_combine() expects parameter 1 to be array, null given E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1719
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> uksort() expects parameter 1 to be array, null given E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1723
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> Invalid argument supplied for foreach() E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1726
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1553
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1202
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1553
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 948
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1553
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, class 'OAuthUtil' not found E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1553
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> array_combine() expects parameter 1 to be array, null given E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1719
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> uksort() expects parameter 1 to be array, null given E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1723
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> Invalid argument supplied for foreach() E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1726
+ERROR - 2011-05-29 20:36:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:36:56 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 620
+ERROR - 2011-05-29 20:36:56 --> Severity: Notice  --> Undefined index: oauth_token_secret E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 620
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at E:\workspaces\php\pg\src\ci\system\core\Exceptions.php:170) E:\workspaces\php\pg\src\ci\system\libraries\Session.php 671
+ERROR - 2011-05-29 20:36:56 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\controllers\binding\tqq.php 21
+ERROR - 2011-05-29 20:36:56 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at E:\workspaces\php\pg\src\ci\system\core\Exceptions.php:170) E:\workspaces\php\pg\src\ci\system\helpers\url_helper.php 543
+DEBUG - 2011-05-29 20:38:26 --> Config Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:38:26 --> URI Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Router Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Output Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Security Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Input Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:38:26 --> Language Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:38:26 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Session Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:38:26 --> Session routines successfully run
+DEBUG - 2011-05-29 20:38:26 --> Model Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Model Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:38:26 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:38:26 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:38:26 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:38:26 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+DEBUG - 2011-05-29 20:38:28 --> Config Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:38:28 --> URI Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Router Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Output Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Security Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Input Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:38:28 --> Language Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:38:28 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Session Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:38:28 --> Session routines successfully run
+DEBUG - 2011-05-29 20:38:28 --> Model Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Model Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:38:28 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:38:28 --> Helper loaded: t_qq_helper
+ERROR - 2011-05-29 20:38:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:38:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:38:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:38:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\t_qq_helper.php 1219
+DEBUG - 2011-05-29 20:38:29 --> File loaded: application/views/binding/splash.php
+DEBUG - 2011-05-29 20:38:29 --> Final output sent to browser
+DEBUG - 2011-05-29 20:38:29 --> Total execution time: 0.7054
+DEBUG - 2011-05-29 20:38:35 --> Config Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:38:35 --> URI Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Router Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:38:35 --> Output Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Security Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Input Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:38:35 --> Language Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:38:35 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Session Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:38:35 --> Session routines successfully run
+DEBUG - 2011-05-29 20:38:35 --> Model Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Model Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:38:35 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:38:35 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:38:35 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:38:35 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:38:35 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:38:35 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:38:35 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:38:35 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:38:35 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:38:35 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:38:36 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:38:36 --> Final output sent to browser
+DEBUG - 2011-05-29 20:38:36 --> Total execution time: 0.5122
+DEBUG - 2011-05-29 20:47:20 --> Config Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:47:20 --> URI Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Router Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:47:20 --> Output Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Security Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Input Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:47:20 --> Language Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:47:20 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Session Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:47:20 --> Session routines successfully run
+DEBUG - 2011-05-29 20:47:20 --> Model Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Model Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:47:20 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:47:20 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:47:20 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:47:20 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:47:20 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:47:20 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:47:20 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:47:20 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:47:20 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:47:20 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:47:20 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:47:20 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:47:20 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:47:20 --> Final output sent to browser
+DEBUG - 2011-05-29 20:47:20 --> Total execution time: 0.7164
+DEBUG - 2011-05-29 20:55:37 --> Config Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Hooks Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 20:55:37 --> URI Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Router Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 20:55:37 --> Output Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Security Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Input Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 20:55:37 --> Language Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Loader Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 20:55:37 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Session Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 20:55:37 --> Session routines successfully run
+DEBUG - 2011-05-29 20:55:37 --> Model Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Model Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Controller Class Initialized
+DEBUG - 2011-05-29 20:55:37 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 20:55:37 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 20:55:37 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 20:55:37 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 20:55:37 --> Helper loaded: html_helper
+ERROR - 2011-05-29 20:55:37 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:55:37 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:55:38 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:55:38 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 20:55:38 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:55:38 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:55:38 --> Severity: Notice  --> Undefined index: n E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 287
+ERROR - 2011-05-29 20:55:38 --> Severity: Notice  --> Undefined index: n E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 294
+ERROR - 2011-05-29 20:55:38 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:55:38 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 20:55:39 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 20:55:39 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 20:55:39 --> Final output sent to browser
+DEBUG - 2011-05-29 20:55:39 --> Total execution time: 1.5726
+DEBUG - 2011-05-29 21:00:14 --> Config Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:00:14 --> URI Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Router Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:00:14 --> Output Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Security Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Input Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:00:14 --> Language Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:00:14 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Session Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:00:14 --> Session routines successfully run
+DEBUG - 2011-05-29 21:00:14 --> Model Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Model Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:00:14 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:00:14 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:00:14 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:00:14 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:00:14 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:00:14 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:00:14 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:00:14 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:00:14 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:00:14 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:00:14 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:00:15 --> Severity: Notice  --> Undefined index: n E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 287
+ERROR - 2011-05-29 21:00:15 --> Severity: Notice  --> Undefined index: n E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 294
+ERROR - 2011-05-29 21:00:15 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:00:15 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:00:15 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 21:00:45 --> Config Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:00:45 --> URI Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Router Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:00:45 --> Output Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Security Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Input Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:00:45 --> Language Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:00:45 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Session Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:00:45 --> Session routines successfully run
+DEBUG - 2011-05-29 21:00:45 --> Model Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Model Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:00:45 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:00:45 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:00:45 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:00:45 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:00:45 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:00:45 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:00:45 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:00:45 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:00:45 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:00:45 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:00:45 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:00:46 --> Severity: Notice  --> Undefined index: n E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 287
+ERROR - 2011-05-29 21:00:46 --> Severity: Notice  --> Undefined index: n E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 294
+ERROR - 2011-05-29 21:00:46 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:00:46 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:00:46 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 21:00:46 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:00:46 --> Final output sent to browser
+DEBUG - 2011-05-29 21:00:46 --> Total execution time: 1.2050
+DEBUG - 2011-05-29 21:01:44 --> Config Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:01:44 --> URI Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Router Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:01:44 --> Output Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Security Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Input Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:01:44 --> Language Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:01:44 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Session Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:01:44 --> Session routines successfully run
+DEBUG - 2011-05-29 21:01:44 --> Model Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Model Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:01:44 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:01:44 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:01:44 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:01:44 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:01:44 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:01:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:01:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:01:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:01:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:01:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:01:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:01:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:01:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:01:45 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 21:01:45 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:01:45 --> Final output sent to browser
+DEBUG - 2011-05-29 21:01:45 --> Total execution time: 1.0966
+DEBUG - 2011-05-29 21:04:59 --> Config Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:04:59 --> URI Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Router Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:04:59 --> Output Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Security Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Input Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:04:59 --> Language Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:04:59 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Session Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:04:59 --> Session routines successfully run
+DEBUG - 2011-05-29 21:04:59 --> Model Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Model Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:04:59 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:04:59 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:04:59 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:04:59 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:04:59 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:04:59 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:04:59 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:04:59 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:04:59 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:04:59 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:04:59 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:04:59 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:04:59 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:04:59 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 21:05:00 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:05:00 --> Final output sent to browser
+DEBUG - 2011-05-29 21:05:00 --> Total execution time: 1.3925
+DEBUG - 2011-05-29 21:07:57 --> Config Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:07:57 --> URI Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Router Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:07:57 --> Output Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Security Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Input Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:07:57 --> Language Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:07:57 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Session Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:07:57 --> Session routines successfully run
+DEBUG - 2011-05-29 21:07:57 --> Model Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Model Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:07:57 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:07:57 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:07:57 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:07:57 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:07:57 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:07:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:07:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:07:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:07:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:07:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:07:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:07:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:07:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:07:58 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 21:07:58 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:07:58 --> Final output sent to browser
+DEBUG - 2011-05-29 21:07:58 --> Total execution time: 1.2079
+DEBUG - 2011-05-29 21:14:43 --> Config Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:14:43 --> URI Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Router Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:14:43 --> Output Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Security Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Input Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:14:43 --> Language Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:14:43 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Session Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:14:43 --> Session routines successfully run
+DEBUG - 2011-05-29 21:14:43 --> Model Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Model Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:14:43 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:14:43 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:14:43 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:14:43 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:14:43 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:14:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:14:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:14:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:14:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:14:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:14:43 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:14:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:14:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:14:44 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+ERROR - 2011-05-29 21:14:45 --> Severity: Warning  --> Missing argument 3 for RenrenConnect::get_friends(), called in E:\workspaces\php\pg\src\ci\application\controllers\index.php on line 63 and defined E:\workspaces\php\pg\src\ci\application\helpers\renren_helper.php 77
+ERROR - 2011-05-29 21:14:45 --> Severity: Notice  --> Undefined variable: session_key E:\workspaces\php\pg\src\ci\application\helpers\renren_helper.php 81
+ERROR - 2011-05-29 21:14:45 --> Severity: Notice  --> Undefined index: 60ca3fd7dfeb48ae9527cf9becc8f961_session_key E:\workspaces\php\pg\src\ci\application\helpers\renren\RenRenClient.class.php 273
+ERROR - 2011-05-29 21:14:45 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+ERROR - 2011-05-29 21:14:45 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:14:45 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:14:45 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:14:45 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:14:45 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:14:45 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:14:45 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:14:45 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:14:45 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+DEBUG - 2011-05-29 21:14:45 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:14:45 --> Final output sent to browser
+DEBUG - 2011-05-29 21:14:45 --> Total execution time: 1.7163
+DEBUG - 2011-05-29 21:16:28 --> Config Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:16:28 --> URI Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Router Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:16:28 --> Output Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Security Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Input Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:16:28 --> Language Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:16:28 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Session Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:16:28 --> Session garbage collection performed.
+DEBUG - 2011-05-29 21:16:28 --> Session routines successfully run
+DEBUG - 2011-05-29 21:16:28 --> Model Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Model Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:16:28 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:16:28 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:16:28 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:16:28 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:16:28 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:16:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:16:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:16:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:16:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:16:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:16:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:16:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:16:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:16:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+ERROR - 2011-05-29 21:16:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+ERROR - 2011-05-29 21:16:30 --> Severity: 4096  --> Object of class stdClass could not be converted to string E:\workspaces\php\pg\src\ci\application\views\index_login.php 17
+DEBUG - 2011-05-29 21:16:30 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:16:30 --> Final output sent to browser
+DEBUG - 2011-05-29 21:16:30 --> Total execution time: 1.4976
+DEBUG - 2011-05-29 21:17:55 --> Config Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:17:55 --> URI Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Router Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:17:55 --> Output Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Security Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Input Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:17:55 --> Language Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:17:55 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Session Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:17:55 --> Session routines successfully run
+DEBUG - 2011-05-29 21:17:55 --> Model Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Model Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:17:55 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:17:55 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:17:55 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:17:55 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:17:55 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:17:55 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:17:55 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:17:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:17:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:17:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:17:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:17:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:17:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:17:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+ERROR - 2011-05-29 21:17:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 21:17:57 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:17:57 --> Final output sent to browser
+DEBUG - 2011-05-29 21:17:57 --> Total execution time: 1.3696
+DEBUG - 2011-05-29 21:18:56 --> Config Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:18:56 --> URI Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Router Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:18:56 --> Output Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Security Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Input Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:18:56 --> Language Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:18:56 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Session Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:18:56 --> Session routines successfully run
+DEBUG - 2011-05-29 21:18:56 --> Model Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Model Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:18:56 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:18:56 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:18:56 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:18:56 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:18:56 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:18:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:18:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:18:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:18:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:18:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:18:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:18:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:18:56 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:18:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+ERROR - 2011-05-29 21:18:57 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 21:18:57 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:18:57 --> Final output sent to browser
+DEBUG - 2011-05-29 21:18:57 --> Total execution time: 1.2886
+DEBUG - 2011-05-29 21:20:28 --> Config Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:20:28 --> URI Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Router Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:20:28 --> Output Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Security Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Input Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:20:28 --> Language Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:20:28 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Session Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:20:28 --> Session routines successfully run
+DEBUG - 2011-05-29 21:20:28 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:20:28 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:20:28 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:20:28 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:20:28 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:20:28 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:20:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:20:28 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:20:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:20:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:20:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:20:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:20:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:20:29 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:20:30 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+ERROR - 2011-05-29 21:20:30 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 21:20:30 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:20:30 --> Final output sent to browser
+DEBUG - 2011-05-29 21:20:30 --> Total execution time: 2.5238
+DEBUG - 2011-05-29 21:20:47 --> Config Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:20:47 --> URI Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Router Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Output Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Security Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Input Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:20:47 --> Language Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:20:47 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Session Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:20:47 --> Session routines successfully run
+DEBUG - 2011-05-29 21:20:47 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:20:47 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:20:47 --> Helper loaded: qq_helper
+ERROR - 2011-05-29 21:20:48 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\helpers\qq_helper.php 32
+ERROR - 2011-05-29 21:20:48 --> Severity: Notice  --> Undefined index: oauth_token E:\workspaces\php\pg\src\ci\application\helpers\qq_helper.php 36
+ERROR - 2011-05-29 21:20:48 --> Severity: Notice  --> Undefined index: oauth_token_secret E:\workspaces\php\pg\src\ci\application\helpers\qq_helper.php 37
+DEBUG - 2011-05-29 21:20:52 --> Config Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:20:52 --> URI Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Router Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Output Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Security Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Input Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:20:52 --> Language Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:20:52 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Session Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:20:52 --> Session routines successfully run
+DEBUG - 2011-05-29 21:20:52 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 21:20:52 --> Config Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:20:52 --> URI Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Router Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:20:52 --> Output Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Security Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Input Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:20:52 --> Language Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:20:52 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Session Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:20:52 --> Session routines successfully run
+DEBUG - 2011-05-29 21:20:52 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:20:52 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 21:20:52 --> File loaded: application/views/index_not_login.php
+DEBUG - 2011-05-29 21:20:52 --> Final output sent to browser
+DEBUG - 2011-05-29 21:20:52 --> Total execution time: 0.0437
+DEBUG - 2011-05-29 21:20:52 --> Config Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:20:52 --> URI Class Initialized
+DEBUG - 2011-05-29 21:20:52 --> Router Class Initialized
+ERROR - 2011-05-29 21:20:52 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 21:20:53 --> Config Class Initialized
+DEBUG - 2011-05-29 21:20:53 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:20:53 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:20:53 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:20:53 --> Config Class Initialized
+DEBUG - 2011-05-29 21:20:53 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:20:53 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:20:53 --> URI Class Initialized
+DEBUG - 2011-05-29 21:20:53 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:20:53 --> Router Class Initialized
+DEBUG - 2011-05-29 21:20:53 --> URI Class Initialized
+ERROR - 2011-05-29 21:20:53 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 21:20:53 --> Router Class Initialized
+ERROR - 2011-05-29 21:20:53 --> 404 Page Not Found --> images
+DEBUG - 2011-05-29 21:20:54 --> Config Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:20:54 --> URI Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Router Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Output Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Security Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Input Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:20:54 --> Language Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:20:54 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Session Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:20:54 --> Session routines successfully run
+DEBUG - 2011-05-29 21:20:54 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:20:54 --> Helper loaded: form_helper
+DEBUG - 2011-05-29 21:20:54 --> Form Validation Class Initialized
+DEBUG - 2011-05-29 21:20:54 --> File loaded: application/views/binding/email.php
+DEBUG - 2011-05-29 21:20:54 --> Final output sent to browser
+DEBUG - 2011-05-29 21:20:54 --> Total execution time: 0.0422
+DEBUG - 2011-05-29 21:20:58 --> Config Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:20:58 --> URI Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Router Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Output Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Security Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Input Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:20:58 --> Language Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:20:58 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Session Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:20:58 --> Session garbage collection performed.
+DEBUG - 2011-05-29 21:20:58 --> Session routines successfully run
+DEBUG - 2011-05-29 21:20:58 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Model Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:20:58 --> Helper loaded: form_helper
+DEBUG - 2011-05-29 21:20:58 --> Form Validation Class Initialized
+DEBUG - 2011-05-29 21:20:58 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2011-05-29 21:20:58 --> File loaded: application/views/binding/not_first_binding.php
+DEBUG - 2011-05-29 21:20:58 --> Final output sent to browser
+DEBUG - 2011-05-29 21:20:58 --> Total execution time: 0.0446
+DEBUG - 2011-05-29 21:21:01 --> Config Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:21:01 --> URI Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Router Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:21:01 --> Output Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Security Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Input Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:21:01 --> Language Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:21:01 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Session Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:21:01 --> Session routines successfully run
+DEBUG - 2011-05-29 21:21:01 --> Model Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Model Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:21:01 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:21:01 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:21:01 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:21:01 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:21:01 --> Helper loaded: html_helper
+ERROR - 2011-05-29 21:21:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:21:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:21:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:21:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\weibooauth_helper.php 369
+ERROR - 2011-05-29 21:21:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:21:01 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:21:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:21:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\libraries\t_qq_helper.php 1219
+ERROR - 2011-05-29 21:21:02 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+ERROR - 2011-05-29 21:21:03 --> Severity: Notice  --> Undefined index: port E:\workspaces\php\pg\src\ci\application\helpers\renren\RESTClient.class.php 225
+DEBUG - 2011-05-29 21:21:03 --> File loaded: application/views/index_login.php
+DEBUG - 2011-05-29 21:21:03 --> Final output sent to browser
+DEBUG - 2011-05-29 21:21:03 --> Total execution time: 2.1038

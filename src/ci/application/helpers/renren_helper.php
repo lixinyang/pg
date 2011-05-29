@@ -73,6 +73,16 @@ class RenrenConnect
 		$result = $rrObj->POST('users.getInfo', array($sns_uid , $fields));
 		return $result;
 	}
+	
+	function get_friends($appkey, $appsecret, $session_key, $page=1, $count=500)
+	{
+		$rrObj = new RenRenClient();
+		$rrObj->init($appkey, $appsecret);
+		$rrObj->setSessionKey($session_key);
+		$result = $rrObj->POST('friends.getFriends', array($page , $count));
+		return $result;
+	}
+	
 	/**
 	 * @brief 对参数进行字典升序排序
 	 *
