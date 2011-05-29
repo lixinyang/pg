@@ -66,7 +66,7 @@ $atts = array(
 );
 echo anchor_popup('binding/renren/show', '<img src="images/renren.png" alt="用人人帐号登录" />', $atts);
 ?></li>
-<li><a href="http://kaixin001.com">以开心网帐号登录</a></li>
+<li><a href="javascript:void(0)" onclick="javascript:alert('Coming soon，敬请期待')">以开心网帐号登录</a></li>
 </ul>
 </p>
 </body>
