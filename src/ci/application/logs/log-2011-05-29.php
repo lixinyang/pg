@@ -15970,3 +15970,61 @@ ERROR - 2011-05-29 21:21:03 --> Severity: Notice  --> Undefined index: port E:\w
 DEBUG - 2011-05-29 21:21:03 --> File loaded: application/views/index_login.php
 DEBUG - 2011-05-29 21:21:03 --> Final output sent to browser
 DEBUG - 2011-05-29 21:21:03 --> Total execution time: 2.1038
+DEBUG - 2011-05-29 21:26:05 --> Config Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:26:05 --> URI Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Router Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:26:05 --> Output Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Security Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Input Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:26:05 --> Language Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:26:05 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Session Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:26:05 --> Session routines successfully run
+DEBUG - 2011-05-29 21:26:05 --> Model Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Model Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 21:26:05 --> File loaded: application/views/index_not_login.php
+DEBUG - 2011-05-29 21:26:05 --> Final output sent to browser
+DEBUG - 2011-05-29 21:26:05 --> Total execution time: 0.1369
+DEBUG - 2011-05-29 21:26:05 --> Config Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Hooks Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Utf8 Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> UTF-8 Support Enabled
+DEBUG - 2011-05-29 21:26:05 --> URI Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Router Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> No URI present. Default controller set.
+DEBUG - 2011-05-29 21:26:05 --> Output Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Security Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Input Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-05-29 21:26:05 --> Language Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Loader Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: cookie_helper
+DEBUG - 2011-05-29 21:26:05 --> Database Driver Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Session Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: string_helper
+DEBUG - 2011-05-29 21:26:05 --> Session routines successfully run
+DEBUG - 2011-05-29 21:26:05 --> Model Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Model Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Controller Class Initialized
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: url_helper
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: weibooauth_helper
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: qq_helper
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: renren_helper
+DEBUG - 2011-05-29 21:26:05 --> Helper loaded: html_helper
+DEBUG - 2011-05-29 21:26:05 --> File loaded: application/views/index_not_login.php
+DEBUG - 2011-05-29 21:26:05 --> Final output sent to browser
+DEBUG - 2011-05-29 21:26:05 --> Total execution time: 0.0484
